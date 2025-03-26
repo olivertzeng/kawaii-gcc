@@ -18,19 +18,19 @@ msgid "function not considered for inlining"
 msgstr "我才不会考虑内联函数喵~(快放弃传统inline啊笨蛋！)"
 
 msgid "invalid conversion from type %<bfloat16_t%>"
-msgstr "从%<__fpreg%>的转换是无效的喵~"
+msgstr "从%<bfloat16_t%>的转换是无效的喵~"
 
 msgid "invalid conversion from %<__fpreg%>"
 msgstr "从%<__fpreg%>的转换是无效的喵~"
 
 msgid "invalid conversion from type %<__vector_quad%>"
-msgstr "从%<__fpreg%>的转换是无效的喵~"
+msgstr "从%<__vector_quad%>的转换是无效的喵~"
 
 msgid "invalid conversion to type %<__vector_quad%>"
-msgstr "向%<__fpreg%>的转换是无效的喵~"
+msgstr "向%<__vector_quad%>的转换是无效的喵~"
 
 msgid "invalid conversion from type %<__vector_pair%>"
-msgstr "从%<__fpreg%>的转换是无效的喵~"
+msgstr "从%<__vector_pair%>的转换是无效的喵~"
 
 msgid "expected %<;%>"
 msgstr "需要%<;%>，请添加上它并对它道歉！"
@@ -79,7 +79,7 @@ msgid "expected %<}%>"
 msgstr "需要 %<}%>，请添加上它并对它道歉！"
 
 msgid "expected %<else%>"
-msgstr "需要%<delete%>，请添加上它并对它道歉！"
+msgstr "需要%<else%>，请添加上它并对它道歉！"
 
 msgid "expected %<#pragma omp section%> or %<}%>"
 msgstr "需要%<#pragma omp section%>或%<}%>，请添加上它并对它道歉！"
@@ -816,7 +816,7 @@ msgstr "%<long%>、%<int%>、%<short%>或%<char%>对%qs是无效的喵～"
 
 msgid "long, short, signed or unsigned used invalidly for %qs"
 msgstr "为%qs使用 long、short、signed 或 unsigned 是无效的喵～"
- 
+
 msgid "function body not available"
 msgstr "函数体不可用，你不知道吗！"
 
@@ -849,7 +849,7 @@ msgstr "这个寻址模式是无效的喔，只有人家才会好心提醒你呢
 
 msgid "unsupported operand"
 msgstr "非预期的操作数，你这代码真离谱喵～"
- 
+
 msgid "unused parameter %qD"
 msgstr "你是不是忘了某个叫作%qD的东西"
 
@@ -1258,19 +1258,19 @@ msgstr "-install_name 只能和 -dynamiclib 一起使用喵！"
 msgid "-bundle not allowed with -dynamiclib"
 msgstr "-bundle 不……不能与 -dynamiclib 在一起喵！"
 
-msgid "%s: all warnings being treated as errors" 
-msgstr "%s：如你所愿，所有的警告都被当作是错误喵！" 
-  
-msgid "%s: some warnings being treated as errors" 
-msgstr "%s：如你所愿，有些警告被当作是错误喵！" 
-  
-msgid "%qE requires a %<declare%> directive for use in a %<routine%> function" 
-msgstr "%qE未声明（第一次使用居然不声明？杂鱼～）" 
-  
-msgid "Convert function return to call and return thunk." 
-msgstr "函数是不能返回它自身的呢" 
-  
-msgid "invalid memory model %wi for %qD" 
+msgid "%s: all warnings being treated as errors"
+msgstr "%s：如你所愿，所有的警告都被当作是错误喵！"
+
+msgid "%s: some warnings being treated as errors"
+msgstr "%s：如你所愿，有些警告被当作是错误喵！"
+
+msgid "%qE requires a %<declare%> directive for use in a %<routine%> function"
+msgstr "%qE未声明（第一次使用居然不声明？杂鱼～）"
+
+msgid "Convert function return to call and return thunk."
+msgstr "函数是不能返回它自身的呢"
+
+msgid "invalid memory model %wi for %qD"
 msgstr "%2$qE的第 %1$d 个实参类型不能被强行兼容喵！会坏掉的喵！"
 
 msgid "Assigning value other than 0 or 1 to LOGICAL has undefined result at %L"

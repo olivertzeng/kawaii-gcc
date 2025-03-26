@@ -1,0 +1,1288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gcc 13.1-b20230409\n"
+"Report-Msgid-Bugs-To: https://gcc.gnu.org/bugs/\n"
+"POT-Creation-Date: 2025-03-26 20:48+0000\n"
+"PO-Revision-Date: 2023-03-26 20:48-0000\n"
+"Last-Translator: Oliver Tzeng（曾嘉禾）<olivertzeng@proton.me>\n"
+"Language-Team: l10n-tw\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "function not considered for inlining"
+msgstr "我才不會考慮內聯函數喵~（快放棄傳統inline啊笨蛋！）"
+
+msgid "invalid conversion from type %<bfloat16_t%>"
+msgstr "從%<bfloat16_t%>的轉換是無效的喵~"
+
+msgid "invalid conversion from %<__fpreg%>"
+msgstr "從%<__fpreg%>的轉換是無效的喵~"
+
+msgid "invalid conversion from type %<__vector_quad%>"
+msgstr "從%<__vector_quad%>的轉換是無效的喵~"
+
+msgid "invalid conversion to type %<__vector_quad%>"
+msgstr "向%<__vector_quad%>的轉換是無效的喵~"
+
+msgid "invalid conversion from type %<__vector_pair%>"
+msgstr "從%<__vector_pair%>的轉換是無效的喵~"
+
+msgid "expected %<;%>"
+msgstr "需要%<;%>，請添加上它並對它道歉！"
+
+msgid "expected %<]%>"
+msgstr "需要%<]%>，請添加上它並對它道歉！"
+
+msgid "expected %<;%>, %<,%> or %<)%>"
+msgstr "需要 %<;%>、%<,%> 或 %<）%>，請添加上它並對它道歉！"
+
+#. Look for the two `(' tokens.
+msgid "expected %<(%>"
+msgstr "需要%<（%>，請添加上它並對它道歉！"
+
+msgid "expected %<[%>"
+msgstr "需要%<[%>，請添加上它並對它道歉！"
+
+msgid "expected %<{%>"
+msgstr "需要%<{%>，請添加上它並對它道歉！"
+
+msgid "expected %<:%>"
+msgstr "需要 %<:%>，請添加上它並對它道歉！"
+
+msgid "expected %<while%>"
+msgstr "需要 %<while%>，請添加上它並對它道歉！"
+
+msgid "expected %<,%>"
+msgstr "需要 %<,%>，請添加上它並對它道歉！"
+
+msgid "expected %<.%>"
+msgstr "需要%<.%>，請添加上它並對它道歉！"
+
+msgid "expected %<@end%>"
+msgstr "需要 %<@end%>，請添加上它並對它道歉！"
+
+msgid "expected %<>%>"
+msgstr "需要 %<>%>，請添加上它並對它道歉！"
+
+msgid "expected %<,%> or %<)%>"
+msgstr "需要 %<,%> 或 %<）%>，請添加上它並對它道歉！"
+
+msgid "expected %<=%>"
+msgstr "需要%<=%>，請添加上它並對它道歉！"
+
+msgid "expected %<}%>"
+msgstr "需要 %<}%>，請添加上它並對它道歉！"
+
+msgid "expected %<else%>"
+msgstr "需要%<else%>，請添加上它並對它道歉！"
+
+msgid "expected %<#pragma omp section%> or %<}%>"
+msgstr "需要%<#pragma omp section%>或%<}%>，請添加上它並對它道歉！"
+
+msgid ""
+"%s %<%s%.*s%> expects argument of type %<%s%s%>, but argument %d has type %qT"
+msgstr "%s %<%s%.*s%> 需要參數類型%<%s%s%>，但第 %d 個實參的類型卻是%qT，長點心吧喂！！！"
+
+msgid ""
+"%s %<%s%.*s%> expects argument of type %<%T%s%>, but argument %d has type %qT"
+msgstr "%s %<%s%.*s%> 需要參數類型%<%T%s%>，但第 %d 個實參的類型卻是%qT，長點心吧喂！！！"
+
+msgid ""
+"call to %qE is ambiguous; argument %d has type %qs but argument %d has type "
+"%qs"
+msgstr "格式%q.*s需要類型%<%s%s%>，但實參 %d 的類型卻是%qT，長點心吧喂！！！"
+
+msgid "expected %qT but argument is of type %qT"
+msgstr "需要類型%qT，但實參的類型卻是%qT，長點心吧喂！！！"
+
+msgid "invalid conversion from %qH to %qI"
+msgstr "從%qH到%qI的轉換是無效的喵~"
+
+msgid "expected unqualified-id"
+msgstr "你可能需要指定符-限制符列表"
+
+msgid "expected %<;%> or %<{%>"
+msgstr "需要%<,%>或%<;%>,請添加上它並對它道歉！"
+
+msgid "expected %<{%> or %<:%>"
+msgstr "需要%<{%>或%<:%>，請添加上它並對它道歉！"
+
+msgid "expected %<{%> at %C"
+msgstr "需要%<{%>，請添加上它並對它道歉"
+
+msgid ""
+"\n"
+"Go ahead? (y or n) "
+msgstr ""
+"\n"
+"要...要繼續嗎？（y 或 n） "
+
+
+msgid "  from here"
+msgstr "  從這裡"
+
+msgid "%<::main%> must return %<int%>"
+msgstr "%<::main%>必須返回%<int%>，這你都不知道嗎？"
+
+msgid "%<long long long%> is too long for GCC"
+msgstr "%<long long long%>對人家來說太長了啊，嗚嗚～"
+
+msgid "%<long%> switch expression not converted to %<int%> in ISO C"
+msgstr "在 ISO C 中，%<long%>開關表達式不被轉換為%<int%>, 建議換rust～"
+
+msgid "%q+D declared as a friend"
+msgstr "%q+D是你的朋友!"
+
+msgid "Fatal Error"
+msgstr "寄了"
+
+msgid "ISO C90 does not support %<[*]%> array declarators"
+msgstr "聽不懂嗚哇哇，ISO C90 聽不懂%<[*]%> 數組聲明方式的啦"
+
+msgid "In function %qs"
+msgstr "就...就在那個叫%qs的函數裡！"
+
+msgid "Integer too large at %C"
+msgstr "%C處整數太，太大了啊！"
+
+msgid "Name at %C is too long"
+msgstr "%C 的名字太...太長了啊！"
+
+msgid "Name too long"
+msgstr "名字太，太長了啊！"
+
+msgid "No longer supported."
+msgstr "不會再愛。"
+
+msgid "Out of stack space.\n"
+msgstr "堆棧...溢！...溢出來了嗚嗚嗚！\n"
+
+msgid "Warning"
+msgstr "盯你一眼"
+
+
+msgid "aka"
+msgstr "aka（該不會你連also known as都不認識吧～）"
+
+msgid "compilation terminated.\n"
+msgstr "編譯中斷，好耶！\n"
+
+
+msgid "debug"
+msgstr "太...太羞恥了"
+
+msgid "debug: "
+msgstr "太...太羞恥了："
+
+msgid "%qD was not declared in this scope"
+msgstr "%qD不聲明就想用？你以為別的女孩子也會像我一樣這樣提醒你嗎？"
+
+msgid "error"
+msgstr "笨蛋！"
+
+msgid "error: "
+msgstr "笨蛋！"
+
+msgid "need explicit conversion"
+msgstr "需要顯式轉換，才不會幫你進行呢"
+
+msgid "need explicit conversion; missing method %s%s%s"
+msgstr "需要顯式轉換；缺少方法%s%s%s"
+
+msgid "negative insn length"
+msgstr "指令長度為負，好離譜喵～"
+
+msgid "negative integer implicitly converted to unsigned type"
+msgstr "負整數隱式轉換為無符號類型，咱也很困擾～"
+
+msgid "negative nesting depth of region %i"
+msgstr "區域 %i 的嵌套深度為負，對此麥克阿瑟放棄評價"
+
+msgid "negative shift count"
+msgstr "移位次數為負，咱不知道該說什麼"
+
+msgid "no arguments"
+msgstr "沒有參數，寄了！"
+
+
+msgid "no input files"
+msgstr "沒有輸入文件，寄！"
+
+msgid "no input files; unwilling to write output files"
+msgstr "沒有輸入文件；不能寫入輸出文件，總之就是寄"
+
+msgid "note"
+msgstr "才...才不會告訴你..."
+
+msgid "note: "
+msgstr "才...才不會告訴你...："
+
+msgid "null pointer"
+msgstr "和你的內心一樣空虛的指針（簡稱空指針）"
+
+msgid "number must be 0 or 1"
+msgstr "數字必須是 0 或 1（屏幕前的你必須是0，逃...）"
+
+msgid "object is not a method"
+msgstr "對象不是一個方法（這都不會，還想找對象？雜魚～）"
+
+
+msgid "optional argument"
+msgstr "才，才不是可選參數呢"
+
+
+msgid "ordered comparison of pointer with integer zero"
+msgstr "指針與整數 0 比較大小，請對NULL道歉"
+
+msgid "original definition appeared here"
+msgstr "原始定義在此，請對它道歉！"
+
+
+msgid "originally defined here"
+msgstr "原先是在這裡定義的"
+
+
+msgid "originally specified here"
+msgstr "原先是在這裡定義的："
+
+msgid "overflow in array dimension"
+msgstr "數組維數溢...溢出來了!"
+
+msgid "overflow in constant expression"
+msgstr "常量表達式溢...溢出來了!"
+
+msgid "overflow in enumeration values"
+msgstr "枚舉值溢...溢出來了!"
+
+msgid "overflow in enumeration values at %qD"
+msgstr "%qD處枚舉值溢...溢出來了!"
+
+msgid "overflow in implicit constant conversion"
+msgstr "隱式常量轉換溢...溢出來了!"
+
+msgid "pedwarn"
+msgstr "保守起見咱還是警告下"
+
+msgid "pedwarn: "
+msgstr "保守起見咱還是警告下："
+
+msgid "permerror"
+msgstr "寄啦！永久錯誤"
+
+msgid "permerror: "
+msgstr "寄啦！永久錯誤："
+
+msgid "segmentation fault"
+msgstr "喜報：段錯誤"
+
+msgid "segmentation fault (code)"
+msgstr "喜報：段錯誤（代碼）"
+
+msgid "size of array is too large"
+msgstr "數組太大了，會撐壞內存的～"
+
+msgid "size of unnamed array is too large"
+msgstr "無名數組太大，會撐壞內存的～"
+
+msgid "size of variable %q+D is too large"
+msgstr "變量%q+D的大小太大，會撐壞內存的～"
+
+msgid "sorry, unimplemented"
+msgstr "對不起~做不到~"
+
+msgid "sorry, unimplemented: "
+msgstr "對不起~做不到~"
+
+msgid "statement has no effect"
+msgstr "你說的對，但是語句沒有作用"
+
+msgid "statement with no effect"
+msgstr "你說的對，但是語句不起作用"
+
+
+msgid ""
+"string length %qd is greater than the length %qd ISO C%d compilers are "
+"required to support"
+msgstr "字符串長%qd比%qd（ISO C%d 被要求支持的最大長度） 還要長，不可以的啊！！！"
+
+msgid "strong-cast assignment has been intercepted"
+msgstr "強轉換的賦值被打斷,嗚嗚嗚～"
+
+msgid "strong-cast may possibly be needed"
+msgstr "可能需要強類型轉換，那種事，不要啊！！！"
+
+msgid "struct defined here"
+msgstr "結構在此定義～"
+
+msgid "struct has no members"
+msgstr "結構體沒有成員，你怎麼寫的代碼啊喂！！！"
+
+msgid "struct has no named members"
+msgstr "連一個有名成員都沒有，是個雜魚結構體呢～"
+
+msgid "subframework include %s conflicts with framework include"
+msgstr "子框架包含 %s 與框架包含沖突"
+
+msgid "subscript missing in array reference"
+msgstr "數組引用缺少下標了呢～"
+
+msgid "subscripted value is neither array nor pointer"
+msgstr "下標運算的左操作數既非數組也非指針，咱自己也不會算喵～"
+
+msgid "subscripted value is pointer to function"
+msgstr "下標運算的左操作數是函數指針，咱自己也不會算喵～"
+
+msgid "subscripting array declared %<register%>"
+msgstr "按下標訪問聲明為%<register%>的數組，建議放棄register因為編譯器比你這個笨蛋可聰明多了喵～"
+
+msgid "suggest braces around empty body in %<do%> statement"
+msgstr "要記得在空的%<do%>語句體周圍加上花括號，並大聲地向它說「對不起，我不該把你留空的」"
+
+msgid "suggest braces around empty body in an %<else%> statement"
+msgstr "要記得在空的%<else%>語句體周圍加上花括號，並大聲地向它說「對不起，我不該把你留空的」"
+
+msgid "suggest braces around empty body in an %<if%> statement"
+msgstr "要記得在空的%<if%>語句體周圍加上花括號，並大聲地向它說「對不起，我不該把你留空的」"
+
+msgid "suggest explicit braces around empty body in %<do%> statement"
+msgstr "要記得在%<do%>的空語句體周圍顯式地加上花括號，並大聲地向它說「對不起，我不該把你留空的」"
+
+msgid "suggest explicit braces to avoid ambiguous %<else%>"
+msgstr "要記得顯式地使用花括號以避免出現有歧義的%<else%>"
+
+msgid "suggest parentheses around %<&&%> within %<||%>"
+msgstr "要記得在%<||%>的操作數中出現的%<&&%>前後加上括號"
+
+msgid "suggest parentheses around %<+%> in operand of %<&%>"
+msgstr "要記得在%<&%>的操作數中出現的%<+%>前後加上括號"
+
+msgid "suggest parentheses around %<+%> inside %<<<%>"
+msgstr "要記得在%<<<%>的操作數中出現的%<+%>前後加上括號"
+
+msgid "suggest parentheses around %<+%> inside %<>>%>"
+msgstr "要記得在%<>>%>的操作數中出現的%<+%>前後加上括號"
+
+msgid "suggest parentheses around %<-%> in operand of %<&%>"
+msgstr "要記得在%<&%>的操作數中出現的%<-%>前後加上括號"
+
+msgid "suggest parentheses around %<-%> inside %<<<%>"
+msgstr "要記得在%<<<%>的操作數中出現的%<-%>前後加上括號"
+
+msgid "suggest parentheses around %<-%> inside %<>>%>"
+msgstr "要記得在%<>>%>的操作數中出現的%<-%>前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around %<>>%> expression"
+msgstr "要記得在%<>>%>表達式周圍加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around arithmetic in operand of %<^%>"
+msgstr "要記得在%<^%>的操作數中的算術表達式前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around arithmetic in operand of %<|%>"
+msgstr "要記得在%<|%>的操作數中的算術表達式前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around assignment used as truth value"
+msgstr "要記得在用作真值的賦值語句前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around comparison in operand of %<!=%>"
+msgstr "要記得在%<!=%>的操作數的比較前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around comparison in operand of %<&%>"
+msgstr "要記得在%<&%>的操作數中的比較表達式前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around comparison in operand of %<==%>"
+msgstr "要記得在%<==%>的操作數的比較表達式前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around comparison in operand of %<^%>"
+msgstr "要記得在%<^%>的操作數中的比較表達式前後加上括號，並真誠地對它說對不起"
+
+msgid "suggest parentheses around comparison in operand of %<|%>"
+msgstr "要記得在%<|%>的操作數中的比較表達式前後加上括號，並真誠地對它說對不起"
+
+msgid ""
+"suggest parentheses around operand of %<!%> or change %<&%> to %<&&%> or %<!"
+"%> to %<~%>"
+msgstr ""
+"建議在%<!%>的操作數周圍加上括號，或將%<&%>改為%<&&%>，或將%<!%>改為%<~%>"
+
+msgid ""
+"suggest parentheses around operand of %<!%> or change %<|%> to %<||%> or %<!"
+"%> to %<~%>"
+msgstr ""
+"建議在%<!%>的操作數周圍加上括號，或將%<|%>改為%<||%>，或將%<!%>改為%<~%>"
+
+msgid "suggested alternative:"
+msgid_plural "suggested alternatives:"
+msgstr[0] "才...才不是建議的替代呢："
+
+msgid "too many arguments"
+msgstr "實參太...太多了!!!"
+
+msgid "too many arguments to function"
+msgstr "給予函數的實參太...太多了！"
+
+msgid "too many arguments to function %qE"
+msgstr "提供給函數%qE的實參太多，檢查下定義吧～"
+
+msgid "too many arguments to function %q#D"
+msgstr "函數%q#D的參數太多，不…不能再多了！"
+
+msgid "too many values in return statement"
+msgstr "返回語句中值太多了，編譯前給我檢查一下啊喂！！！"
+
+msgid ""
+"traditional C lacks a separate namespace for labels, identifier %qE conflicts"
+msgstr "傳統 C 不為標號提供一個單獨的命名空間，標識符%qE沖突，要不咱換C23（霧）"
+
+msgid "traditional C rejects ISO C style function definitions"
+msgstr "傳統 C 不接受 ISO C 風格的函數定義，要不咱換C23（霧）"
+
+msgid "traditional C rejects automatic aggregate initialization"
+msgstr "傳統 C 不接受自動的聚合初始化，要不咱換C23（霧）"
+
+msgid "traditional C rejects initialization of unions"
+msgstr "傳統 C 不接受對聯合的初始化，要不咱換C23（霧）"
+
+msgid "traditional C rejects string constant concatenation"
+msgstr "傳統 C 不接受字符串常量毗連，要不咱換C23（霧）"
+
+msgid "traditional C rejects the unary plus operator"
+msgstr "傳統 C 不接受單目 + 運算符，要不咱換C23（霧）"
+
+
+msgid "union cannot be made transparent"
+msgstr "聯合不能成為透明的"
+
+msgid "union defined here"
+msgstr "聯合在此定義～"
+
+msgid "union has no members"
+msgstr "聯合體沒有成員，是個雜魚定義呢～"
+
+msgid "union has no named members"
+msgstr "聯合包含無名成員，連名字都不配有可真失敗呢～"
+
+
+msgid "unrecoverable error"
+msgstr "不可恢復錯誤，寄啦～"
+
+msgid "unrecognizable insn:"
+msgstr "無法識別的指令，你自己看著辦吧："
+
+msgid "unrecognized address"
+msgstr "無法識別的地址，你自己看著辦吧"
+
+msgid "unrecognized format specifier"
+msgstr "無法識別的格式限定符，你自己看著辦吧"
+
+
+msgid "unused name %qE"
+msgstr "未使用的名稱 %qE，不要丟下人家啊嗚嗚嗚～"
+
+msgid "unused variable %q+D"
+msgstr "你是不是忘了某個叫作%q+D的東西"
+
+msgid "variable %q#D has initializer but incomplete type"
+msgstr "變量%q#D有初始值設定，但是類型並不完全吶～"
+
+msgid "variable %q+D declared %<inline%>"
+msgstr "變量%q+D聲明為%<inline%>，真是離譜呢～"
+
+msgid "variable %q+D definition is marked dllimport"
+msgstr "變量%q+D的定義被標記為 dllimport"
+
+msgid "variable %q+D might be clobbered by %<longjmp%> or %<vfork%>"
+msgstr "變量%q+D能為%<longjmp%>或%<vfork%>所篡改，真出了問題咱可不管～"
+
+msgid "variable %qD has function type"
+msgstr "變量%qD居然有函數類型？"
+
+msgid "variable %qD has initializer but incomplete type"
+msgstr "變量%qD有初始值設定但類型並不完全呢～"
+
+msgid "variable %qD redeclared as function"
+msgstr "變量%qD重聲明為函數，你這代碼真離譜喵～"
+
+msgid "variable %qD set but not used"
+msgstr "變量%qD被設定但未被使用，你是不是又把人家忘了！！！"
+
+
+msgid "value computed is not used"
+msgstr "計算出的值未被使用，才...才不是抱怨你非得讓咱算一遍呢!"
+
+msgid "variable length array %qD is used"
+msgstr "%qD 是一個變長數組欸"
+
+msgid "variable length array is used"
+msgstr "是變長數組欸"
+
+msgid "variable or field %qE declared void"
+msgstr "變量或字段%qE聲明為 void,這樣我會很困擾的！"
+
+msgid "variable or field declared void"
+msgstr "變量或字段聲明為 void,這樣我會很困擾的！"
+
+msgid "variable previously declared %<static%> redeclared %<extern%>"
+msgstr "先前被聲明為%<static%>的變量重聲明為%<extern%>，才...才不會困擾呢！"
+
+msgid "variable tracking requested, but not supported by this debug format"
+msgstr "要求追蹤變量，但不為這種調試格式所支持"
+
+msgid "variable tracking requested, but useless unless producing debug info"
+msgstr "倘若不生成調試信息，要求追蹤變量則毫無用處"
+
+msgid "variable tracking size limit exceeded"
+msgstr "變量跟蹤大小越...越限了啊喂！！！"
+
+
+msgid "writing into constant object (argument %d)"
+msgstr "是不是又想把一些奇奇怪怪的東西寫入常量對象，比如說實參 %d？"
+
+
+msgid "writing through null pointer (argument %d)"
+msgstr "實參 %d 這裡的指針是空的，不要再繼續寫入啦！"
+
+
+msgid "wrong type argument to abs"
+msgstr "這個類型還小，小孩子是不可以求絕對值哦"
+
+msgid "wrong type argument to conjugation"
+msgstr "噠咩！對該類型的參數求共軛會孬掉的"
+
+msgid "wrong type argument to decrement"
+msgstr "對這些類型自減什麼的，人家不知道怎麼做嗚"
+
+msgid "wrong type argument to increment"
+msgstr "對這些類型自增什麼的，人家不知道怎麼做嗚"
+
+msgid "wrong type argument to unary exclamation mark"
+msgstr "人家真的不知道把這個類型的東西和單目 ! 放在一起是什麼意思啦"
+
+msgid "wrong type argument to unary minus"
+msgstr "人家只是不想對這個類型的操作數做單目減，才不是人家不會！"
+
+msgid "wrong type argument to unary plus"
+msgstr "人家只是不想對這個類型的操作數做單目加，才不是人家不會！"
+
+msgid "zero or negative size array %q+D"
+msgstr "人家喜歡長度大於零的數組 %q+D 哦"
+
+msgid "zero vector size"
+msgstr "你的向量長度也是零嗎"
+
+msgid "{anonymous}"
+msgstr "{猜中人家給你獎勵哦}"
+
+msgid "division by zero is not a constant expression"
+msgstr "你怎麼敢拿除以零這種東西當常量表達式的啊？答案是error=e or r^2，自己看著辦吧哼！"
+
+msgid "%qs is defined in header %qs; did you forget to %<#include %s%>?"
+msgstr "%qs是定義在頭文件%qs裡的，人家看你就是忘記%<#include %s%>了～"
+
+msgid ""
+"%<std::%s%> is defined in header %qs; did you forget to %<#include %s%>?"
+msgstr "%<std::%s%>是定義在頭文件%qs裡的，人家看你就是忘記%<#include %s%>了～"
+
+msgid "In function %qD"
+msgstr "就...就在那個叫%qD的函數裡..."
+
+msgid "unused variable %qD"
+msgstr "你是不是忘了某個叫作%qD的東西"
+
+msgid ""
+"%<constexpr%> loop iteration count exceeds limit of %d （use %<-fconstexpr-"
+"loop-limit=%> to increase the limit）"
+msgstr ""
+"人家對 %<constexpr%> 循環迭代了 %d 次都沒算出結果，你想累死人家嗎！ （才不會讓你用 %<-fconstexpr-"
+"loop-limit=%> 提升限制呢）"
+
+msgid "%r%s:%d:%d:%R   in %<constexpr%> expansion of %qs"
+msgstr "%r%s:%d:%d:%R   在人家展開 %<constexpr%> 表達式 %qs 時"
+
+#: cp/error.cc:3832
+msgid "%r%s:%d:%R   in %<constexpr%> expansion of %qs"
+msgstr "%r%s:%d:%R   在人家展開 %<constexpr%> 表達式 %qs 時"
+
+msgid "cannot convert value to a vector"
+msgstr "無法轉換為指針類型,建議重開謝謝喵～"
+
+msgid "declared here"
+msgstr "在這裡聲明的呢："
+
+msgid "include %qs or provide a declaration of %qE"
+msgstr "請#include%qs或提供對%qE的定義，並對它說：對不起我不該忘記你！"
+
+msgid "include %qs or provide a declaration of %qD"
+msgstr "請#include%qs或提供對%qD的定義，並對它說：對不起我不該忘記你！"
+
+msgid "no return statement in function returning non-void"
+msgstr "有返回值的函數卻沒有return？真是個笨蛋呢！"
+
+msgid "%qs tag used in naming %q#T"
+msgstr "在命名%qs時居然使用了%q#T標記！"
+
+msgid "cannot convert %qH to %qI in argument passing"
+msgstr "參數中%qH無法轉換為%qI類型,建議重開謝謝喵～"
+
+msgid "cannot convert %qH to %qI in initialization"
+msgstr "變量初始化時無法轉換%qH為%qI類型,建議重開謝謝喵～"
+
+msgid "cannot convert %qH to %qI in return"
+msgstr "函數返回時無法轉換%qH為%qI類型,建議重開謝謝喵～"
+
+msgid "cannot convert %qH to %qI in assignment"
+msgstr "無法轉換%qH為%qI類型,建議重開謝謝喵～"
+
+msgid "Used here"
+msgstr "在這裡調用的呢："
+
+msgid "returning %qT from a function with incompatible return type %qT"
+msgstr "在返回%qT的函數中返回%qT,你可長點心吧喂！！！"
+
+msgid "assignment to %qT from incompatible pointer type %qT"
+msgstr "%qT從不兼容的指針類型賦值為%qT,純愛戰神很生氣！"
+
+msgid "unknown type name %qE"
+msgstr "未知的類型名%qE,是忘了定義了嗎喵？"
+
+msgid "control reaches end of non-void function"
+msgstr "你的這個函數是不是把返回值忘了？？？"
+
+msgid "unbounded use of variable-length array"
+msgstr "ISO C90 不允許變長數組，建議給C語言自增下～"
+
+msgid "incompatible implicit declaration of built-in function %qD"
+msgstr "隱式聲明與內建函數%qD不兼容，別問我為什麼覺得你已經隱式聲明了！"
+
+msgid "fatal error: "
+msgstr "寄了："
+
+msgid "return type of %qD is not %<int%>"
+msgstr "%qD的返回類型不對,猜猜它應該是什麼"
+
+msgid "return-statement with a value, in function returning %qT"
+msgstr "在返回%qT的函數中，返回是不應該帶返回值的，這你都不知道嗎？"
+
+msgid "%q#T was previously declared here"
+msgstr "%q#T以前是...是在這裡聲明的："
+
+msgid "%qD was previously declared here"
+msgstr "%qD以前是...是在這裡聲明的："
+
+msgid "implicit declaration of function %qE"
+msgstr "你剛剛隱式聲明了函數%qE，這個特性早就被棄用了，是學某本C語言教科書的雜魚呢～"
+
+msgid "division by zero"
+msgstr "你的除數也是零嗎？"
+
+msgid "warning: "
+msgstr "雜魚～"
+
+msgid "storage size of %q+D isn%'t known"
+msgstr "%q+D的存儲大小未知,咱可並不喜歡你這種神秘感～"
+
+msgid "storage size of %qD isn%'t known"
+msgstr "%qD的存儲大小未知,咱可並不喜歡你這種神秘感～"
+
+msgid "%qE defined as wrong kind of tag"
+msgstr "%qE定義為類型錯誤的標記，下輩子注意就好了喵～"
+
+msgid "At top level:"
+msgstr "就...就在這個文件裡："
+
+msgid "assignment to expression with array type"
+msgstr "無效的數組賦值，對此咱表示強烈抗議喵！！！"
+
+msgid "assignment of read-only variable %qD"
+msgstr "你好像試圖向只讀變量%qD賦值，對此rust會教你做人的喵～"
+
+msgid "conflicting type qualifiers for %q+D"
+msgstr "%q+D的類型限定沖突了啊喂！！！"
+
+msgid "previous definition of %q+D with type %qT"
+msgstr "%q+D之前已經在這裡定義為%qT了，長點心吧喵～"
+
+msgid "passing argument %d of %qE makes pointer from integer without a cast"
+msgstr "傳遞給%qE的第 %d 個參數將整數賦給指針，你個笨蛋，好歹做下類型轉換啊！！！"
+
+msgid "ISO C forbids subscripting %<register%> array"
+msgstr "這個世界線的 ISO C 貌似並不允許按下標訪問 %<register%> 數組喵～"
+
+msgid "type defaults to %<int%> in type name"
+msgstr "你不說咱就當它是% <int%> 了喵～"
+
+msgid "type defaults to %<int%> in declaration of %qE"
+msgstr "在%qE的聲明中，你不說咱就當它是 %<int%> 了喵～"
+
+msgid "previous declaration as %q#D"
+msgstr "先前的聲明是 %q#D 呢～"
+
+msgid "conflicting declaration %q#D"
+msgstr "聲明 %q#D 沖突了啊喂！！！"
+
+msgid "conversion from %qT to %qT changes value from %qE to %qE"
+msgstr "變量從%qT轉換為%qT時，它的值會從 %qE 變為 %qE，才...才不是好心提醒你呢！"
+
+msgid "expected %<)%>"
+msgstr "你可能需要 %<)%>"
+
+msgid "%qE does not name a type"
+msgstr "%qE 不是一個類型名,請添加類型名並對它道歉！"
+
+msgid "each undeclared identifier is reported only once for each function it appears in"
+msgstr "我只警告你這一次喵！！！"
+
+msgid "initialization of %qT from %qT makes integer from pointer without a cast"
+msgstr "初始化將指針賦給整數，並且你沒有類型轉換，真是個笨蛋！"
+
+msgid "overflow in conversion from %qT to %qT changes value from %qE to %qE"
+msgstr "在%qT 到 %qT的轉換中，數據溢...溢出來了嗚嗚嗚！（因此它的值從 %qE 變成了 %qE）"
+
+msgid "unsupported operand for code '%c'"
+msgstr "代碼「%c」的操作數是無效的喵～"
+
+msgid "Discover pure and const functions."
+msgstr "純常函數狀態是無效的喵～"
+
+msgid "Enable hwasan instrumentation of builtin functions."
+msgstr "內建函數實參是無效的喵～"
+
+msgid "Treat all warnings as errors."
+msgstr "%s：你說得對，但是所有的警告都被當作是錯誤"
+
+msgid "command-line option %qs is valid for the driver but not for %s"
+msgstr "命令行選項「%s」對 %s 是有效的，但對 %s 是無效的喵～"
+
+msgid "invalid operand to switch statement"
+msgstr "開關語句操作數是無效的喵～"
+
+msgid "node has unknown type"
+msgstr "你...你輸入的到底是什麼！我怎麼不知道！"
+
+msgid "pass %s does not support cloning"
+msgstr "過程 %s 是不支持克隆的！你不知道嗎！"
+
+msgid "%<atexit%> failed"
+msgstr "atexit 大~失~敗~"
+
+msgid "... to the previous %qs clause here"
+msgstr "這...這個已經在這裡使用過了，不能再使用了！"
+
+msgid "invalid operand to %%R"
+msgstr "%%R 的操作數是無效的喵～"
+
+msgid "bad address, not a constant:"
+msgstr "地址偏移量不是一個常量，你有沒有檢查過代碼啊喂！！！"
+
+msgid "in a call to non-static member function %qD"
+msgstr "對非靜態成員函數%qD的使用是無效的喵～"
+
+msgid "%qD source argument is the same as destination"
+msgstr "屬性%qE的參數是無效的喵～"
+
+msgid "invalid type for _Literal with constructor"
+msgstr "構造函數中對靜態成員的初始化是無效的喵～"
+
+msgid "threadprivate iteration variable %qD"
+msgstr "迭代變量%qE類型是無效的喵～"
+
+msgid "invalid use of array indexing on pointer to member"
+msgstr "對成員指針數組索引的使用是無效的喵～"
+
+msgid "Warn about implicit conversion of enum types."
+msgstr "隱式轉換成員指針用法是無效的喵～"
+
+msgid "invalid custom instruction option %qs"
+msgstr "向函數類型%qT的轉換是無效的喵～"
+
+msgid "invalid operand in return statement"
+msgstr "返回語句操作數是無效的喵～"
+
+msgid "valid %<-foffload=%> arguments are: %s"
+msgstr "%L過程參數是無效的喵～"
+
+msgid "bad option %s to optimize attribute"
+msgstr "optimize 屬性選項 %s 是無效的喵～"
+
+msgid "%<signed%> or %<unsigned%> invalid for %qs"
+msgstr "為%qs使用%<signed%>或%<unsigned%>是無效的喵～"
+
+msgid "%<long%>, %<int%>, %<short%>, or %<char%> invalid for %qs"
+msgstr "%<long%>、%<int%>、%<short%>或%<char%>對%qs是無效的喵～"
+
+msgid "long, short, signed or unsigned used invalidly for %qs"
+msgstr "為%qs使用 long、short、signed 或 unsigned 是無效的喵～"
+
+msgid "function body not available"
+msgstr "函數體不可用，你不知道嗎！"
+
+msgid "--param large-function-growth limit reached"
+msgstr "已經到達 --param large-function-growth 給定的極限了，不能再多了！"
+
+msgid "mismatched declarations during linktime optimization"
+msgstr "需要迭代聲明或初始化呢，建議檢查下代碼呢～"
+
+msgid "anachronism: "
+msgstr "這是要留著過年嗎？："
+
+msgid "-f%s ignored (not supported for DJGPP)\n"
+msgstr "-f%s 是不受支持的呢：已經忽略掉了，你可要好好感謝人家呢~\n"
+
+msgid "Enable preprocessing."
+msgstr "預處理被啟用了呢～"
+
+msgid "Disable preprocessing."
+msgstr "預處理被禁用了呢~"
+
+msgid "invalid insn:"
+msgstr "這個指令是無效的呢："
+
+msgid "incorrect insn:"
+msgstr "這個指令是錯誤的呢："
+
+msgid "invalid address in operand"
+msgstr "這個尋址模式是無效的喔，只有人家才會好心提醒你呢"
+
+msgid "unsupported operand"
+msgstr "非預期的操作數，你這代碼真離譜喵～"
+
+msgid "unused parameter %qD"
+msgstr "你是不是忘了某個叫作%qD的東西"
+
+msgid "unable to find numeric literal operator %qD"
+msgstr "%qD是什麼運算符啊，人家看不懂QwQ"
+
+msgid "expected primary-expression"
+msgstr "不用元表達式的話，會...會壞掉的"
+
+msgid "--param large-stack-frame-growth limit reached"
+msgstr "已經到達 --param large-stack-frame-growth 給定的極限了，不能再多了！"
+
+msgid "--param max-inline-insns-single limit reached"
+msgstr "已經到達 --param max-inline-insns-single 給定的極限了，不能再多了！"
+
+msgid "--param max-inline-insns-auto limit reached"
+msgstr "已經到達 --param max-inline-insns-single 給定的極限了，不能再多了！"
+
+msgid "--param inline-unit-growth limit reached"
+msgstr "已經到達 --param inline-unit-growth 給定的極限了，不能再多了！"
+
+msgid "recursive inlining"
+msgstr "套娃內聯"
+
+msgid "[cannot find %s]"
+msgstr "[%s是不是被你這個變態藏起來了]"
+
+msgid "could not find specs file %s\n"
+msgstr "specs文件%s是不是被你這個變態藏起來了\n"
+
+msgid "%s:no functions found\n"
+msgstr "%s：函數是不是被你這個變態藏起來了\n"
+
+msgid "find_enum(): Enum not found"
+msgstr "find_enum（）：枚舉是不是被你這個變態藏起來了"
+
+msgid "cannot tail-call: %s"
+msgstr "[%s是不是被你這個變態藏起來了]"
+
+msgid "cannot find %qs"
+msgstr "[%s是不是被你這個變態藏起來了]"
+
+msgid "cannot find %<nm%>"
+msgstr "「nm」是不是被你這個變態藏起來了"
+
+msgid "cannot find %<ldd%>"
+msgstr "「ldd」是不是被你這個變態藏起來了"
+
+msgid "dynamic dependency %s not found"
+msgstr "動態依賴項%s是不是被你這個變態藏起來了"
+
+msgid "library lib%s not found"
+msgstr "庫lib%s是不是被你這個變態藏起來了"
+
+msgid "specs %s spec was not found to be renamed"
+msgstr "specs %s 被你這個變態藏起來了 spec 或已被重命名"
+
+msgid "%qD specified bound %s exceeds maximum object size %E"
+msgstr "%qD 指定的界限 %s 超過了最大物件大小 %E 了呢～"
+
+msgid "%qs specified bound %s exceeds maximum object size %E"
+msgstr "%qs 指定的界限 %s 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified bound %E exceeds maximum object size %E"
+msgstr "%qD 指定的界限 %E 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified bound [%E, %E] exceeds maximum object size %E"
+msgstr "%qD 指定的界限 [%E, %E] 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified bound %E may exceed maximum object size %E"
+msgstr "%qD 指定的界限 %E 可能超過最大物件大小 %E 歐～"
+
+msgid "specified bound %E may exceed maximum object size %E"
+msgstr "指定的界限 %E 可能超過最大物件大小 %E 歐～"
+
+msgid "specified bound %E exceeds maximum object size %E"
+msgstr "指定的界限 %E 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified bound [%E, %E] may exceed maximum object size %E"
+msgstr "%qD 指定的界限 [%E, %E] 可能超過最大物件大小 %E 歐～"
+
+msgid "specified bound [%E, %E] may exceed maximum object size %E"
+msgstr "指定的界限 [%E, %E] 可能超過最大物件大小 %E 歐～"
+
+msgid "specified bound [%E, %E] exceeds maximum object size %E"
+msgstr "指定的界限 [%E, %E] 超過了最大物件大小 %E 了呢～"
+
+msgid "specified bound %E exceeds source size %E"
+msgstr "指定的界限 %E 超過了來源大小 %E 了呢～"
+
+msgid "%qD specified size %E may exceed maximum object size %E"
+msgstr "%qD 指定的大小 %E 可能超過最大物件大小 %E 歐～"
+
+msgid "%qD specified size %E exceeds maximum object size %E"
+msgstr "%qD 指定的大小 %E 超過了最大物件大小 %E 了呢～"
+
+msgid "specified size %E may exceed maximum object size %E"
+msgstr "指定的大小 %E 可能超過最大物件大小 %E 歐～"
+
+msgid "specified size %E exceeds maximum object size %E"
+msgstr "指定的大小 %E 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified size between %E and %E may exceed maximum object size %E"
+msgstr "%qD 指定的大小在 %E 和 %E 之間可能超過最大物件大小 %E 歐～"
+
+msgid "%qD specified size between %E and %E exceeds maximum object size %E"
+msgstr "%qD 指定的大小在 %E 和 %E 之間超過了最大物件大小 %E 了呢～"
+
+msgid "specified size between %E and %E may exceed maximum object size %E"
+msgstr "指定的大小在 %E 和 %E 之間可能超過最大物件大小 %E 歐～"
+
+msgid "specified size between %E and %E exceeds maximum object size %E"
+msgstr "指定的大小在 %E 和 %E 之間超過了最大物件大小 %E 了呢～"
+
+msgid "argument %i value %qE exceeds maximum object size %E"
+msgstr "參數 %i 的值 %qE 超過了最大物件大小 %E 了呢～"
+
+msgid "argument %i range [%E, %E] exceeds maximum object size %E"
+msgstr "參數 %i 的範圍 [%E, %E] 超過了最大物件大小 %E 了呢～"
+
+msgid "product %<%E * %E%> of arguments %i and %i exceeds maximum object size %E"
+msgstr "參數 %i 和 %i 的乘積 %<%E * %E%> 超過了最大物件大小 %E 了呢～"
+
+msgid "%qD specified bound %wu exceeds maximum object size %wu"
+msgstr "%qD 指定的界限 %wu 超過了最大物件大小 %wu 了呢～"
+
+msgid "%qD specified bound between %wu and %wu exceeds maximum object size %wu"
+msgstr "%qD 指定的界限在 %wu 和 %wu 之間超過了最大物件大小 %wu 了呢～"
+
+msgid "Reference statement index not found"
+msgstr "C++ 引用是不是被你這個變態藏起來了"
+
+msgid "node is alias but not implicit alias"
+msgstr "節點是 alias 但不是隱式 alias QwQ"
+
+msgid "node is weakref but not an transparent_alias"
+msgstr "節點是 weakref 但不是 transparent_alias QwQ"
+
+msgid "node is transparent_alias but not an alias"
+msgstr "節點是 transparent_alias 但不是 alias QwQ"
+
+msgid "node is symver but not alias"
+msgstr "節點是 symver 但不是 alias QwQ"
+
+msgid "size %qE of array %qE is negative"
+msgstr "數組 %qE 的大小 %qE 是負數了呢～"
+
+msgid "size of array %qE exceeds maximum object size %qE"
+msgstr "數組 %qE 的大小超過了最大物件大小 %qE 了呢～"
+
+msgid "size of array %qE is negative"
+msgstr "數組 %qE 的大小是負數了呢～"
+
+msgid "could not find an integer type of the same size as %qT"
+msgstr "類%qE的接口是不是被你這個變態藏起來了"
+
+msgid "inferred scalar type %qT is not an integer or floating-point type of the same size as %qT"
+msgstr "類%qE的接口是不是被你這個變態藏起來了"
+
+msgid "failed to read compiled module: %s"
+msgstr "類「%s」是不是被你這個變態藏起來了"
+
+msgid "failed to write compiled module: %s"
+msgstr "類「%s」是不是被你這個變態藏起來了"
+
+msgid "failed to create union component '%s'"
+msgstr "類「%s」是不是被你這個變態藏起來了"
+
+msgid "could not find class %qE"
+msgstr "類 %qE 是不是被你這個變態藏起來了"
+
+msgid "could not find interface for class %qE"
+msgstr "類 %qE 的接口是不是被你這個變態藏起來了"
+
+msgid "%<@catch%> parameter cannot be protocol-qualified"
+msgstr "模板參數不能是基友"
+
+msgid "%<@interface%> of class %qE not found"
+msgstr "類 %qE 的 @interface是不是被你這個變態藏起來了"
+
+msgid "%<%c%E%> not found in protocol(s)"
+msgstr "在協議中 %<%c%E%> 是不是被你這個變態藏起來了"
+
+msgid "no %<%c%E%> method found"
+msgstr "方法 %<%c%E%> 是不是被你這個變態藏起來了"
+
+msgid "instance variable %qs has unknown size"
+msgstr "%qs 不知道大小"
+
+msgid "type %qE has virtual member functions"
+msgstr "類型%qE有個成員函數太虛了～"
+
+msgid "instance variable %qE is declared private"
+msgstr "實例變量 %qE 是私處..."
+
+msgid "instance variable %qE is %s; this will be a hard error in the future"
+msgstr "實例變量 %qE 是 %s；這在將來會徹底...壞掉的"
+
+msgid "incomplete implementation of class %qE"
+msgstr "類別 %qE 好像缺了什麼呢"
+
+msgid "incomplete implementation of category %qE"
+msgstr "分類 %qE 好像缺了什麼呢"
+
+msgid "method definition for %<%c%E%> not found"
+msgstr "%<%c%E%> 的方法定義是不是被你這個變態藏起來了"
+
+msgid "cannot find interface declaration for %qE, superclass of %qE"
+msgstr "%qE 超類 %qE 的接口聲明是不是被你這個變態藏起來了"
+
+msgid "class %qE defined without specifying a base class"
+msgstr "類別 %qE 缺少基類啊喵～"
+
+msgid "no declaration of property %qs found in the interface"
+msgstr "找不到任何聲明的內容%qs在中接口，完全沒有啊"
+
+msgid "%<@synthesize%> is not available in Objective-C 1.0"
+msgstr "%<@synthesize%> 在這個東東 （Objective-C 1.0） 裡不可用歐"
+
+msgid "%<@dynamic%> is not available in Objective-C 1.0"
+msgstr "%<@dynamic%> 在這個東東 （Objective-C 1.0） 裡不可用歐"
+
+msgid "definition of protocol %qE not found"
+msgstr "協議%qE的方法定義找不到啊QwQ"
+
+msgid "protocol %qE is unavailable"
+msgstr "這個 %qE 協議out了"
+
+msgid "protocol %qE is deprecated"
+msgstr "這個 %qE 協議out了"
+
+msgid "conflicting types for %<%c%s%>"
+msgstr "%<%c%s%> 類型沖突啦，改個名吧～"
+
+msgid "instance variable %qs is declared private"
+msgstr "%qs 不可以哦！"
+
+msgid "local declaration of %qE hides instance variable"
+msgstr "%qE的實例變量被局部聲明藏起來了，我找不到QwQ"
+
+msgid "no %qs getter found"
+msgstr "人家找不到 %qs 的取值器QwQ"
+
+msgid "fast enumeration is not available in Objective-C 1.0"
+msgstr "這個東東（Objective-C 1.0）不可以用快速枚舉啊"
+
+msgid "iterating variable in fast enumeration is not an object"
+msgstr "快速枚舉中的迭代變量不是你對象哦～"
+
+msgid "collection in fast enumeration is not an object"
+msgstr "這個東東（Objective-C 1.0）不可以用快速枚舉啊"
+
+msgid "type %qT does not have a known size"
+msgstr "%qT不知道大小不可以往裡面進啊！"
+
+msgid "non-objective-c type %qT cannot be caught"
+msgstr "除了Objective-C 類型「%T」別的都抓不到啊QwQ"
+
+msgid "creating selector for nonexistent method %qE"
+msgstr "怎麼又在為不存在的方法%qE創建選擇子呢~"
+
+msgid "call is unlikely and code size would grow"
+msgstr "明明這種姿勢..不太可能啦！還會讓我壞掉的！"
+
+msgid "call is considered never executed and code size would grow"
+msgstr "明明這種姿勢..不太可能啦！還會讓我壞掉的！"
+
+msgid "function not declared inline and code size would grow"
+msgstr "喂！事先不告訴我這個函數還想偷偷進入嗎？！而且...而且會壞掉的..."
+
+msgid "exception handling personality mismatch"
+msgstr "異常處理被觸發了喵~"
+
+msgid "non-call exception handling mismatch"
+msgstr "異常處理被觸發了喵~"
+
+msgid "target specific option mismatch"
+msgstr "切...掛羊頭賣狗肉的混蛋！"
+
+msgid "callee refers to comdat-local symbols"
+msgstr "comdat 本地符號：'又在想我了喵~'"
+
+msgid "sanitizer function attribute mismatch"
+msgstr "喂！難道...又忘記了我喜歡什麼了嘛？！"
+
+msgid "unreachable"
+msgstr "夠不到~"
+
+msgid "internal compiler error: "
+msgstr "混...混蛋...裡面一團糟..："
+
+msgid "interrupt service routine cannot be called directly"
+msgstr "想在Thumb大人的領域中搗亂嗎?（不能編碼中斷服務進程）"
+
+msgid "parameter to builtin not valid: %s\n"
+msgstr "錯誤：「%s」...真是老掉牙的新聞呢...\n"
+
+msgid "%qE needs unknown isa option"
+msgstr "%q 我才不知道你說的 ISA 是什麼呢~"
+
+msgid "%qE needs isa option %s"
+msgstr "%qE 我需要 ISA 選項！ %s"
+
+msgid "incorrect hint operand"
+msgstr "（笨蛋...）"
+
+msgid "multiversioning needs %<ifunc%> which is not supported on this target"
+msgstr "我才不想讓你對我進行嵌套函數呢~"
+
+msgid "code model %s does not support PIC mode"
+msgstr "代碼模式 %s ：我不喜歡在PIC模式下哦~"
+
+msgid "do not specify both -march=... and -mcpu=..."
+msgstr "不要同時指定 -march=... 和 -mcpu=...哦，不然會壞掉的"
+
+msgid " conflicting code gen style switches are used"
+msgstr "使用了相互沖突的代碼生成風格呢，是不是又在Ctrl+C，Ctrl+V了呢？"
+
+msgid "rx200 cpu does not have FPU hardware"
+msgstr "RX200 CPU 是沒有 FPU 硬件的呢"
+
+msgid "Warn if left shifting a negative value."
+msgstr "右移次數居然是負的呢"
+
+msgid "Deprecated.  This switch has no effect."
+msgstr "已經棄用的啦，就算開關N次也是沒用的啦～"
+
+msgid "Removed in GCC 8.  This switch has no effect."
+msgstr "已經在GCC8就被丟棄的啦，為什麼還在用上古的編譯選項呢～"
+
+msgid "Emit debug annotations during preprocessing."
+msgstr "啟用傳統預處理了呢～"
+
+msgid "Enable traditional preprocessing."
+msgstr "啟用傳統預處理了呢～"
+
+msgid "Removed in GCC 10.  This switch has no effect."
+msgstr "已經在GCC10就被丟棄的啦，是不是才切換到新的GCC版本呢～"
+
+msgid "Deprecated in favor of -std=c++11."
+msgstr "已經被棄用了喵，請使用 -std=gnu99謝謝喵～"
+
+msgid "Deprecated in favor of -std=c++14."
+msgstr "已經被棄用了喵，請使用 -std=gnu99謝謝喵～"
+
+msgid "Deprecated in favor of -std=c99."
+msgstr "已經被棄用了喵，請使用 -std=c99謝謝喵～"
+
+msgid "Deprecated in favor of -std=gnu++11."
+msgstr "已經被棄用了喵，請使用 -std=gnu++11謝謝喵～"
+
+msgid "Deprecated in favor of -std=gnu++14."
+msgstr "已經被棄用了喵，請使用 -std=gnu++14謝謝喵～"
+
+msgid "Deprecated in favor of -std=gnu++17."
+msgstr "已經被棄用了喵，請使用 -std=gnu+17謝謝喵～"
+
+msgid "Deprecated in favor of -std=gnu11."
+msgstr "已經被棄用了喵，請使用 -std=gnu11謝謝喵～"
+
+msgid "Deprecated in favor of -std=gnu99."
+msgstr "已經被棄用了喵，請使用 -std=gnu99謝謝喵～"
+
+msgid "<unknown operator>"
+msgstr "<又在寫一種我看不懂的運算符呢>"
+
+msgid "<expression error>"
+msgstr "<錯誤的表達式>"
+
+msgid "<unparsed>"
+msgstr "<看不懂呢>"
+
+msgid "<unknown>"
+msgstr "<不知道是什麼東西呢>"
+
+msgid "<missing>"
+msgstr "<是不是丟掉了>"
+
+msgid "redefinition of %<CTABLE_ENTRY %"
+msgstr "%q#T又定義了一遍哦，刪掉一個吧~"
+
+msgid "function not inlinable"
+msgstr "函數不能內聯的哦"
+
+msgid "operand number out of range"
+msgstr "操作數號太多了，超出了我力所能及的范圍了！！！"
+
+msgid "%s:%d: confused by earlier errors, bailing out\n"
+msgstr "%s:%d：干不下去了，溜了溜了～\n"
+
+msgid "coarray argument"
+msgstr "是無效的參數呢"
+
+msgid "Expected name"
+msgstr "需要給這個家伙起個名字呢"
+
+msgid "-E or -x required when input is from standard input"
+msgstr "從標准輸入來的家伙需要-E 或者 -x呢"
+
+msgid "GNU C no longer supports -traditional without -E"
+msgstr "GNU C 不再支持不帶 -E 的 -traditional了喵！再嘗試我要生氣了！"
+
+msgid "-install_name only allowed with -dynamiclib"
+msgstr "-install_name 只能和 -dynamiclib 一起使用喵！"
+
+msgid "-bundle not allowed with -dynamiclib"
+msgstr "-bundle 不……不能與 -dynamiclib 在一起喵！"
+
+msgid "%s: all warnings being treated as errors"
+msgstr "%s：如你所願，所有的警告都被當作是錯誤喵！"
+
+msgid "%s: some warnings being treated as errors"
+msgstr "%s：如你所願，有些警告被當作是錯誤喵！"
+
+msgid "%qE requires a %<declare%> directive for use in a %<routine%> function"
+msgstr "%qE 未聲明（第一次使用居然不聲明？雜魚～）"
+
+msgid "Convert function return to call and return thunk."
+msgstr "函數是不能返回它自身的呢"
+
+msgid "invalid memory model %wi for %qD"
+msgstr "%qE的第 %d 個實參類型不能被強行兼容喵！會壞掉的喵！"
+
+msgid "Assigning value other than 0 or 1 to LOGICAL has undefined result at %L"
+msgstr "喂喂，你居然敢在 %L 給 LOGICAL 賦 0 或 1 以外的值？真是愚蠢啊！這種操作可是未定義的哦！"
+
+msgid "COMMON %qs at %L does not exist"
+msgstr "哈？%L 這裡的 COMMON 竟然不存在？不會吧不會吧，你不會連這個都搞丟了吧？"
+
+msgid "COMMON %qs at %L requires %d bytes of padding; reorder elements or use %<-fno-align-commons%>"
+msgstr "什麼啊，在 %L 還要填充 %d 字節？這排布方式有夠蠢的，重排一下啊，還是說你不會？"
+
+msgid "Unused PRIVATE module variable %qs declared at %L"
+msgstr "居然在 %L 聲明了變量 %qs，結果完全沒用？你是打算給編譯器看笑話嗎？"
+
+msgid "Return value of function %qs at %L not set"
+msgstr "你這函數 %qs 在 %L 居然沒設置返回值？咋了，不會寫函數還是寫了個寂寞？"
